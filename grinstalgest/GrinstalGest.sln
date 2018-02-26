@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrinstalGest.iOS", "Grinsta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrinstalGest.UWP", "GrinstalGest\GrinstalGest.UWP\GrinstalGest.UWP.csproj", "{FA3E28D0-325D-4B8D-A58C-0D3FB0DA1195}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrinstalGest", "GrinstalGest\GrinstalGest\GrinstalGest.csproj", "{53F935D0-4CAB-4A20-9B7C-49EC5AF7C4B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GrinstalGest", "GrinstalGest\GrinstalGest\GrinstalGest.csproj", "{53F935D0-4CAB-4A20-9B7C-49EC5AF7C4B8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
